@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="ApRzc046hKIpn8vIO2zk">
+    <mxGraphModel dx="795" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-1" value="变压器&lt;div&gt;200kva（300A）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="39.5" as="sourcePoint" />
+            <mxPoint x="300" y="39.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-4" value="4x95mm²" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vWuFWRHb3aDXdSqBZEJH-2" vertex="1" connectable="0">
+          <mxGeometry x="0.05" y="4" relative="1" as="geometry">
+            <mxPoint x="3" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOHHNRJ09J0mkNT5SgB2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vWuFWRHb3aDXdSqBZEJH-3" target="vWuFWRHb3aDXdSqBZEJH-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eOHHNRJ09J0mkNT5SgB2-4" value="4x70mm²" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eOHHNRJ09J0mkNT5SgB2-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.4133" y="3" relative="1" as="geometry">
+            <mxPoint x="15" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-3" value="交流配电柜（箱）300A以上（交流引入单位施工）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vWuFWRHb3aDXdSqBZEJH-5" target="vWuFWRHb3aDXdSqBZEJH-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="180" />
+              <mxPoint x="620" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-9" value="4x70mm²" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vWuFWRHb3aDXdSqBZEJH-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-5" value="油机/ATS一体（75kw）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="510" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOHHNRJ09J0mkNT5SgB2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vWuFWRHb3aDXdSqBZEJH-11" target="eOHHNRJ09J0mkNT5SgB2-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWuFWRHb3aDXdSqBZEJH-11" value="交流配电柜（含空调、灯具）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOHHNRJ09J0mkNT5SgB2-5" value="开关电源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
